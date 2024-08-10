@@ -42,7 +42,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/classic-cars.git
+   git clone https://github.com/gulamquadir500/classic-cars.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -53,40 +53,30 @@ To run this project locally:
 ## 🖼️ Screenshots
 
 ### 1. Header Section
-![Header Section](screenshots/section-1)
+![Header Section](screenshots/section-1.png)
 
 ### 2. Popular Cars Section
-![Popular Cars](screenshots/popular-cars.png)
+![Popular Cars](screenshots/section-2.png)
 
 ### 3. Video Gallery Section
-![Video Gallery](screenshots/video-gallery.png)
+![Video Gallery](screenshots/section-3.png)
 
 ### 4. Image Gallery Section
-![Image Gallery](screenshots/image-gallery.png)
+![Image Gallery](screenshots/section-4.png)
 
 ### 5. Contact Us Section
-![Contact Us](screenshots/contact-us.png)
+![Contact Us](screenshots/section-5.png)
 
 ### 6. Menu Navigation
-![Menu Navigation](screenshots/menu-navigation.png)
+![Menu Navigation](screenshots/section-6.png)
 
 
 ## 🤝 Contributing
 
 Feel free to fork this repository and make contributions. Pull requests are always welcome!
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Enjoy exploring the world of Classic Cars!**
 ```
 
-### Instructions:
-1. Replace `"your-username"` with your GitHub username in the clone link.
-2. Add screenshots under the "Screenshots" section if you have them.
-3. Ensure the license file is included or update the license section if needed.
-
-This `README.md` file provides an overview of your project and instructions for others to use or contribute to it.
