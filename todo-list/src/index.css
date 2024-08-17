@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(39, 173, 176);
+}
+
+.wrapper {
+  max-width: 1440px;
+  width: 55vw;
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  background-color: rgb(5, 94, 94);
+  border: none;
+  border-radius: 15px;
+}
+
+.header {
+  background-color: rgb(5, 94, 94);
+}
+
+.custom-form {
+  width: 400px;
+  height: auto;
+  margin: 20px auto;
+  /* border: 2PX solid rgb(90, 255, 90); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(5, 94, 94);
+}
+
+.input-and-btn {
+  display: flex;
+  background-color: rgb(5, 94, 94);
+}
+
+.todo-box {
+  background-color: rgb(5, 94, 94);
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 2px solid rgba(128, 128, 128, 0.434);
+  border-radius: 2px;
+}
+
+.todo-box .content {
+  display: flex;
+  background-color: rgb(5, 94, 94);
+}
+
+.todo-box .content p {
+  margin-top: 10px;
+  margin-left: 6px;
+  background-color: rgb(5, 94, 94);
+}
+
+.todo-box span {
+  margin: 0 5px;
+}
+
+.delete-all {
+  width: 400px;
+}
+
+.actions-box {
+  cursor: pointer;
+}
+
+.actions-box span {
+  background-color: rgb(5, 94, 94);
+}
+
+.back-btn {
+  margin-top: 5px;
+  width: 100%;
+}
+
